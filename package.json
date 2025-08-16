@@ -4,10 +4,15 @@
   "description": "",
   "main": "dist/index.js",
   "scripts": {
+    "start": "ts-node src/index.ts",
     "build": "tsc"
   },
-  "dependencies": {},
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "openai": "^5.12.2"
+  },
   "devDependencies": {
+    "ts-node": "^10.9.2",
     "typescript": "^5.5.3"
   },
   "private": true
