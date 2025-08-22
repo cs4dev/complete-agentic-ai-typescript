@@ -1,3 +1,15 @@
-# The Complete Agentic AI Engineering Course (2025)
+# complete-agentic-ai-typescript
 
-### https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/
+To install dependencies:
+
+```bash
+bun install
+```
+
+To run:
+
+```bash
+bun run index.ts
+```
+
+This project was created using `bun init` in bun v1.1.26. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
